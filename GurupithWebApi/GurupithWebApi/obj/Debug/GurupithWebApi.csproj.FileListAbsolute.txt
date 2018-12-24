@@ -1,0 +1,230 @@
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\roslyn\csc.exe
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\roslyn\System.Collections.Immutable.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\roslyn\vbc.exe
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\roslyn\VBCSCompiler.exe
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\roslyn\VBCSCompiler.exe.config
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\GurupithWebApi.dll.config
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\GurupithWebApi.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\GurupithWebApi.pdb
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Antlr3.Runtime.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\EntityFramework.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\EntityFramework.SqlServer.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Microsoft.AspNet.Identity.Core.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.Cookies.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.Facebook.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.Google.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.OAuth.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.Twitter.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Microsoft.Web.Infrastructure.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Newtonsoft.Json.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Owin.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\System.Net.Http.Formatting.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\System.Web.Helpers.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\System.Web.Http.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\System.Web.Http.Owin.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\System.Web.Http.WebHost.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\System.Web.Mvc.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\System.Web.Optimization.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\System.Web.Razor.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\System.Web.WebPages.Deployment.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\System.Web.WebPages.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\System.Web.WebPages.Razor.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\WebGrease.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Newtonsoft.Json.xml
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\System.Net.Http.Formatting.xml
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\System.Web.Helpers.xml
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\System.Web.Http.xml
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\System.Web.Http.WebHost.xml
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\System.Web.Mvc.xml
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\System.Web.Optimization.xml
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\System.Web.Razor.xml
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\System.Web.WebPages.xml
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\System.Web.WebPages.Deployment.xml
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\System.Web.WebPages.Razor.xml
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Antlr3.Runtime.pdb
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\EntityFramework.xml
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\EntityFramework.SqlServer.xml
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Microsoft.AspNet.Identity.Core.xml
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.xml
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.xml
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.Facebook.xml
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.Cookies.xml
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.OAuth.xml
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.Google.xml
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.Twitter.xml
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\MVC\GurupithWebApi\GurupithWebApi\bin\System.Web.Http.Owin.xml
+E:\MVC\GurupithWebApi\GurupithWebApi\obj\Debug\GurupithWebApi.dll
+E:\MVC\GurupithWebApi\GurupithWebApi\obj\Debug\GurupithWebApi.pdb
+E:\MVC\GurupithWebApi\GurupithWebApi\obj\Debug\GurupithWebApi.csprojResolveAssemblyReference.cache
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\roslyn\csc.exe
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\roslyn\vbc.exe
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\roslyn\VBCSCompiler.exe
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\GurupithWebApi.dll.config
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\GurupithWebApi.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\GurupithWebApi.pdb
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Antlr3.Runtime.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\EntityFramework.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\EntityFramework.SqlServer.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.Cookies.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.Facebook.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.Google.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.Twitter.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Newtonsoft.Json.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Owin.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\System.Net.Http.Formatting.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\System.Web.Helpers.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\System.Web.Http.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\System.Web.Http.Owin.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\System.Web.Http.WebHost.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\System.Web.Mvc.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\System.Web.Optimization.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\System.Web.Razor.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\System.Web.WebPages.Deployment.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\System.Web.WebPages.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\System.Web.WebPages.Razor.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\WebGrease.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Newtonsoft.Json.xml
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\System.Net.Http.Formatting.xml
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\System.Web.Helpers.xml
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\System.Web.Http.xml
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\System.Web.Http.WebHost.xml
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\System.Web.Mvc.xml
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\System.Web.Optimization.xml
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\System.Web.Razor.xml
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\System.Web.WebPages.xml
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\System.Web.WebPages.Deployment.xml
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\System.Web.WebPages.Razor.xml
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Antlr3.Runtime.pdb
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\EntityFramework.xml
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\EntityFramework.SqlServer.xml
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.xml
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.xml
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.Facebook.xml
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.Cookies.xml
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.Google.xml
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.Twitter.xml
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\bin\System.Web.Http.Owin.xml
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\obj\Debug\GurupithWebApi.dll
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\obj\Debug\GurupithWebApi.pdb
+D:\gurupeeth source code\GurupithWebApi\GurupithWebApi\obj\Debug\GurupithWebApi.csprojResolveAssemblyReference.cache
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\roslyn\csc.exe
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\roslyn\vbc.exe
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\roslyn\VBCSCompiler.exe
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\GurupithWebApi.dll.config
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\GurupithWebApi.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\GurupithWebApi.pdb
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Antlr3.Runtime.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\EntityFramework.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\EntityFramework.SqlServer.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.Cookies.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.Facebook.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.Google.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.Twitter.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Newtonsoft.Json.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Owin.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\System.Net.Http.Formatting.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\System.Web.Helpers.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\System.Web.Http.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\System.Web.Http.Owin.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\System.Web.Http.WebHost.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\System.Web.Mvc.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\System.Web.Optimization.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\System.Web.Razor.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\System.Web.WebPages.Deployment.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\System.Web.WebPages.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\System.Web.WebPages.Razor.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\WebGrease.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Newtonsoft.Json.xml
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\System.Net.Http.Formatting.xml
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\System.Web.Helpers.xml
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\System.Web.Http.xml
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\System.Web.Http.WebHost.xml
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\System.Web.Mvc.xml
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\System.Web.Optimization.xml
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\System.Web.Razor.xml
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\System.Web.WebPages.xml
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\System.Web.WebPages.Deployment.xml
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\System.Web.WebPages.Razor.xml
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Antlr3.Runtime.pdb
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\EntityFramework.xml
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\EntityFramework.SqlServer.xml
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.xml
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.xml
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.Facebook.xml
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.Cookies.xml
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.Google.xml
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.Twitter.xml
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\bin\System.Web.Http.Owin.xml
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\obj\Debug\GurupithWebApi.dll
+D:\All Backup Project\GurupithWebApi\GurupithWebApi\obj\Debug\GurupithWebApi.pdb

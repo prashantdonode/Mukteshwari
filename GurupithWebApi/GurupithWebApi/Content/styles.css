@@ -1,0 +1,52 @@
+﻿
+
+a.navbar-brand {
+    color: #fff !important;
+    font-weight:bold;
+}
+
+a.nav-item.nav-link {
+    color: #fff !important;
+}
+
+.psd-margin-top{
+    margin-top:50px;
+}
+
+.psd-padding-margin-top {
+    margin-top: 10px;
+    padding-top: 34px;
+}
+
+.banner-sec {
+    background: url(/Content/images/bg-temple.jpg) no-repeat left bottom;
+    background-size: cover;
+    min-height: 500px;
+    padding: 0;
+}
+
+
+.dashborad-bnr{
+    height:480px;
+}
+
+.dashborad-bnr img{
+  z-index: -1;
+    position: relative;
+}
+
+.dashborad-bnr h3{122
+  color: #000;
+    font-size: 28px;
+    font-weight: bold;
+    position: absolute;
+    left: 37%;
+    top: 110px;
+
+}
+
+
+
+.psd-margin-topp{
+    margin-top:22px;
+}
